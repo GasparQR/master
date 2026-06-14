@@ -1,4 +1,4 @@
-<<<<<<< HEAD
+
 # CatálogoMVP — Guía de setup completa
 
 App de inteligencia de compras conectada a Google Sheets. React + Vite, deploy en Vercel.
